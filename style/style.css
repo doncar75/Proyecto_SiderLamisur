@@ -173,3 +173,20 @@
         }
     }
 }
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.img_adn{
+    width: 650px;
+    height: 300px;
+}
+
+.texto-prod{
+    margin-left: 60px;
+    font-size: 1.5rem;
+}
